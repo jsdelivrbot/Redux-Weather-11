@@ -1,4 +1,6 @@
-# ReduxSimpleStarter
+# Simple Weather App React/Redux
+
+Created by following along with Stephen Grider's Udemy course Modern React with Redux.
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
